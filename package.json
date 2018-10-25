@@ -1,0 +1,22 @@
+{
+  "name": "arthena",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanges/Arthena.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanges/Arthena/issues"
+  },
+  "homepage": "https://github.com/emanges/Arthena#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
